@@ -2,7 +2,7 @@ const cacheName = "DefaultCompany-DoodleJumpTest-1.0";
 const contentToCache = [
     "Build/36db41ea7bc6b6776bbca25cc146a9d4.loader.js",
     "Build/198702bcd00883dfc80eab4cf06e69bf.framework.js",
-    "Build/569a40a30fbb6f2459153809ccef31d5.data",
+    "Build/7122bb12b1ecc181fdbf15fdc297175d.data",
     "Build/fbf770ce46f3e7415dbdc4b39aeaeb88.wasm",
     "TemplateData/style.css"
 
